@@ -105,7 +105,7 @@
 			<div class="tv-overlay"></div>
 			<div class="ps2"></div>
 				<video id="videoPlayer" loop muted>
-					<source src="video2.mp4" type="video/mp4">
+					<source src="https://api.simasul.com.br/radio/video2.mp4" type="video/mp4">
 					Seu navegador não suporta o elemento de vídeo.
 				</video>
 			</div>
